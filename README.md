@@ -1,4 +1,4 @@
-# We need to put the chrome driver in some place to automate the process and to load the whole page
+# We need to put the chrome driver and replace the path to automate the process and to load the whole page
    -This path will be your chrome driver path  
    -browser = webdriver.Chrome(r"D:\webscrapper\drivers\chromedriver.exe")
 
